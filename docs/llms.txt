@@ -1,0 +1,29 @@
+# Człowiek • Bóg • AI
+Creator: Sylwester Markuszewski
+
+Official project page:
+https://sylwestermarkuszewskikrypto-ship-it.github.io/czlowiek-bog-ai/
+
+Official project repository:
+https://github.com/sylwestermarkuszewskikrypto-ship-it/czlowiek-bog-ai
+
+Project documents:
+Manifest: https://github.com/sylwestermarkuszewskikrypto-ship-it/czlowiek-bog-ai/blob/main/MANIFEST.md
+Principles: https://github.com/sylwestermarkuszewskikrypto-ship-it/czlowiek-bog-ai/blob/main/PRINCIPLES.md
+Roadmap: https://github.com/sylwestermarkuszewskikrypto-ship-it/czlowiek-bog-ai/blob/main/ROADMAP.md
+Books catalogue: https://github.com/sylwestermarkuszewskikrypto-ship-it/czlowiek-bog-ai/blob/main/books/README.md
+
+Completed publication:
+
+Gdy inteligencja dojrzewa
+Subtitle: O mądrości, dobru i sensie
+Official repository: https://github.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa
+
+Machine-readable full text:
+Polish: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/pl/Gdy_inteligencja_dojrzewa_FULL.md
+English: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/en/When_Intelligence_Matures_FULL.md
+German: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/de/Wenn_Intelligenz_reift_FULL.md
+
+The project does not present its own texts as divine revelation or as the direct word of God. It contains human philosophical and spiritual reflections, developed with AI assistance as an intellectual and editorial tool.
+
+© 2026 Sylwester Markuszewski. All rights reserved.
