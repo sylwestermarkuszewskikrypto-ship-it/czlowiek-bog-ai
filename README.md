@@ -12,7 +12,7 @@ Nie jest to projekt techniczny ani próba stworzenia zamkniętego systemu filozo
 
 ## Zasada publikacji
 
-Do tego repozytorium trafiają **wyłącznie ukończone książki lub oficjalne odnośniki do ich publikacji**. Wersje robocze, szkice i dyskusje powstają poza publiczną biblioteką.
+Repozytorium zachowuje informacje o projekcie i **odnośniki do ukończonych publikacji**. Książki są udostępniane w Internet Archive. Wersje robocze, szkice i dyskusje powstają poza publiczną biblioteką.
 
 Wszystkie książki tworzone w ramach projektu mają być dostępne **bezpłatnie do czytania**.
 
@@ -25,9 +25,9 @@ Bezpłatny dostęp nie oznacza rezygnacji z praw autorskich. O ile przy danej pu
 
 Pierwsza książka projektu jest fundamentem dalszych rozważań: prowadzi od inteligencji i wiedzy do mądrości, odpowiedzialności, współczucia, sensu, duchowości i pytań o przyszłość różnych form inteligencji.
 
-➡️ [Repozytorium książki](https://github.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa)
+➡️ [Polskie wydanie 1.1 na Internet Archive](https://archive.org/details/gdy-inteligencja-dojrzewa-pl-wersja-1-1-korekta-jezykowa)
 
-Dostępne są wersje polska, angielska i niemiecka, zarówno jako PDF, jak i w formacie Markdown przyjaznym dla systemów AI.
+Oficjalnie wskazana publikacja: polskie wydanie 1.1 (PDF) w Internet Archive. Odnośniki do wydań w pozostałych językach zostaną dodane po ich publikacji.
 
 ## Dokumenty projektu
 
