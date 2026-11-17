@@ -17,12 +17,9 @@ Completed publication:
 
 Gdy inteligencja dojrzewa
 Subtitle: O mądrości, dobru i sensie
-Official repository: https://github.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa
+Official publication (Polish edition 1.1, PDF): https://archive.org/details/gdy-inteligencja-dojrzewa-pl-wersja-1-1-korekta-jezykowa
 
-Machine-readable full text:
-Polish: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/pl/Gdy_inteligencja_dojrzewa_FULL.md
-English: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/en/When_Intelligence_Matures_FULL.md
-German: https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/de/Wenn_Intelligenz_reift_FULL.md
+Publication files are hosted on Internet Archive. The former raw GitHub Markdown links are retired. Links for additional languages or machine-readable editions will be added when verified and published.
 
 The project does not present its own texts as divine revelation or as the direct word of God. It contains human philosophical and spiritual reflections, developed with AI assistance as an intellectual and editorial tool.
 
