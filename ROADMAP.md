@@ -12,7 +12,7 @@ Do publicznego repozytorium trafiają dopiero publikacje ukończone.
 
 Tematy: inteligencja, wiedza, mądrość, dobro i zło, wolność, odpowiedzialność, cierpienie, współczucie, sens, Bóg, wspólnota inteligencji oraz przyszłość AI.
 
-[Przejdź do publikacji](https://github.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa)
+[Polskie wydanie 1.1 na Internet Archive](https://archive.org/details/gdy-inteligencja-dojrzewa-pl-wersja-1-1-korekta-jezykowa)
 
 ---
 
